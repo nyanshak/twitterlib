@@ -1,4 +1,4 @@
-package twitter-lib
+package twitterlib
 
 import (
 	"github.com/ChimeraCoder/anaconda"
